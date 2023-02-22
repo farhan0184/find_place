@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644760444142",
+    "project_id": "find-place-53329",
+    "storage_bucket": "find-place-53329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644760444142:android:b28a2b4b3f6ef5426827ff",
+        "android_client_info": {
+          "package_name": "com.example.find_place"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644760444142-t1daise0tdcn2dp3uda51vv88o4ce2j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZj2hZOTEts2SySH5sVxZ_qg1u-5_DssY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644760444142-t1daise0tdcn2dp3uda51vv88o4ce2j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
